@@ -4,7 +4,7 @@ import axios from "axios";
 import { Country, State, City } from "country-state-city";
 import InputField from "../Components/InputField";
 import SelectField from "../Components/SelectField";
-import { baseUrl } from "../config/url"; 
+
 
 const LocationForm = () => {
   const {
